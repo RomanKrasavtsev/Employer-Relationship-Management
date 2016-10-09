@@ -1,4 +1,4 @@
-# JobSearchERM 💼
+# JobSearch ERM
 
 🌍 The first ERM in the world!
 
